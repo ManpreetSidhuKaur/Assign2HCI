@@ -1,6 +1,44 @@
 # Assign2HCI
 
 Human Computer Interaction Assignment 
+
+Part 1: 
+Who are the end users (audience) of the app you designed prototype for?  
+
+Ans- The primary users are students who need access to courses, assignments, and group discussions. Secondary users include instructors who manage course content and interactions. 
+
+What should you consider for each group of audience for your app? 
+ 
+Ans- Students need an intuitive interface, timely notifications, and collaboration tools. Instructors require easy course management, assignment grading, and communication features. 
+
+Find similar successful apps (minimum 5 apps) to your application, and investigate what users liked or disliked about the application. Mention top five apps almost similar to yours. 
+ 
+Google Classroom (Liked: Simple UI; Disliked: Limited customization) 
+
+Canvas (Liked: Robust features; Disliked: Can be complex) 
+ 
+Moodle (Liked: Open source; Disliked: Outdated UI) 
+ 
+Microsoft Teams (Liked: Integration; Disliked: Overwhelming for new users) 
+ 
+Blackboard (Liked: Comprehensive; Disliked: Slow performance) 
+ 
+
+What examples of latent needs can you think of? 
+ 
+Auto-generated study guides from course materials 
+
+AI-based assignment deadline reminders based on workload 
+ 
+
+ What are good ways of finding latent needs? 
+
+ 
+Observing students' study and communication habits 
+
+Conducting interviews and analyzing common frustrations 
+
+
  
 Description: 
  
